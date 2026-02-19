@@ -16,7 +16,7 @@ in the table below:
 
 | Released component  | Release month | Support status          |
 | ------------------- | ------------- | ----------------------- |
-| Mender Client 5.0   | 2025-01       | Supported               |
+| Mender Client 5.0   | 2026-02       | Supported               |
 | Mender Gateway 2.0  | 2025-01       | Supported               |
 | Mender Server 4.1   | 2026-01       | Supported               |
 | Mender Server 4.0   | 2025-01       | Supported until 2026-08 |
